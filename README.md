@@ -11,6 +11,6 @@
 
 ### You can have step-by-step guide of GIT Cheatsheet:
 
-- ### [Chapter 01 - GIT BASICS](Chapter 1 - Terminal Basics)
+- ### [Chapter 1 - Terminal Basics](Terminal-Basics.md)
 
 
