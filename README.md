@@ -1,7 +1,5 @@
 # Git-Cheatsheet
 
-# **WELCOME TO THE GIT CHEATSHEET**
-
     AUTHOR:         TANMAY PATIL  (Github: tanmaypatil15)
     DESCRIPTION:    Git and Github Cheatsheet, which also includes basic Windows Terminal cheats!
 
