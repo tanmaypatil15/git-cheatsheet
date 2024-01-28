@@ -9,11 +9,8 @@
 
 <br/>
 
----
-
 ### You can have step-by-step guide of GIT Cheatsheet:
 
 - ### [Chapter 01 - GIT BASICS](Git-Basics)
 
 
----
