@@ -59,5 +59,23 @@ $ git config credential.helper store
 $ escape + :wq
 ``````
 
+<hr>
+
+## Configuration Files
+
+##### Repository specific configuration file [--local]:
+```
+<repo>/.git/config
+```
+
+##### User-specific configuration file [--global]:
+```
+~/.gitconfig
+```
+
+##### System-wide configuration file [--system]:
+```
+/etc/gitconfig
+```
 
 
