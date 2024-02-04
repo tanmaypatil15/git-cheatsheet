@@ -1,4 +1,4 @@
-# SETUP GIT USER-NAME & USER-EMAIL:
+## SETUP GIT USER-NAME & USER-EMAIL:
 
 ##### Show current configuration:
 ```
@@ -77,5 +77,12 @@ $ escape + :wq
 ```
 /etc/gitconfig
 ```
+<hr>
 
+## Git Help
 
+#### Use for more details and examples on any of the below commands.
+```
+$ git command --help
+```
+<br/>
