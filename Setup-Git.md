@@ -61,7 +61,9 @@ $ escape + :wq
 
 <hr>
 
-## Configuration Files
+<br>
+
+## CONFIGURATION FILES
 
 ##### Repository specific configuration file [--local]:
 ```
@@ -79,9 +81,11 @@ $ escape + :wq
 ```
 <hr>
 
+<br>
+
 ## Git Help
 
-#### Use for more details and examples on any of the below commands.
+##### Use to get more information and details. 
 ```
 $ git command --help
 ```
